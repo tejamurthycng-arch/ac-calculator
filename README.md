@@ -1,6 +1,8 @@
 # ac-calculator
-int main()
-{
+
+    #include<stdio.h>
+    int main()
+    {
     int R,L,C,F;
     float XL,XC,Z,Fr,Pf;
     printf("enter the value of resistance :");
@@ -24,4 +26,4 @@ int main()
     printf("\n The value of powerfactor is : %f",Pf);
     return 0;
 
-}
+    }
